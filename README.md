@@ -20,7 +20,7 @@
 
 <summary>Most used languages</summary>
   
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/Pmpspn/Pmpspn/blob/main/images/stat.svg" alt="Alternative Text"/>
   
 </div>
   
