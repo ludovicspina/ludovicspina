@@ -5,6 +5,6 @@
 </div>
 <div align="left">
   
-    ![Coding stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamp1n&langs_count=6&layout=compact)
+    ![][Coding stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamp1n&langs_count=6&layout=compact)
   
 </div>
