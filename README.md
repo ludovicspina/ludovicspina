@@ -20,13 +20,8 @@
 
 <summary>Most used languages</summary>
   
-[![Pmpspn wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmpspn&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
   
 </div>
   
 </details>
-
-
-<img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
-
