@@ -3,7 +3,6 @@
   
   [![wakatime](https://wakatime.com/badge/user/9cb45756-5907-4e13-97ff-1ac04bc1bd58.svg)](https://wakatime.com/@9cb45756-5907-4e13-97ff-1ac04bc1bd58)
   
-  <div>
   
   ![CSS](https://img.shields.io/badge/CSS-30abe1)
   ![HTML](https://img.shields.io/badge/HTML-f06b30)
@@ -21,6 +20,9 @@
   ![JAVA](https://img.shields.io/badge/JAVA-007396)
   ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB)
   ![DRUPAL](https://img.shields.io/badge/DRUPAL-0678BE)
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=399quvb1w87kbn7tep2vswmy4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
     
 </div>
 
