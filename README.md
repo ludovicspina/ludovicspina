@@ -18,8 +18,9 @@ I'm proficient in the following technologies:
 * Library - ![TAILWIND](https://img.shields.io/badge/TAILWIND-06B6D4) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3)
 * Software - ![JAVA](https://img.shields.io/badge/JAVA-007396) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB)
 * Tech - ![MYSQL](https://img.shields.io/badge/MYSQL-f29010)
-* Frameworks - ![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20) ![VUEJS](https://img.shields.io/badge/VUEJS-4FC08D)
+* Frameworks - ![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20) ![VUEJS](https://img.shields.io/badge/VUEJS-4FC08D) ![DISCORDJS](https://img.shields.io/badge/DISCORDJS-5a7ae8)
 * CMS - ![DRUPAL](https://img.shields.io/badge/DRUPAL-0678BE)
+* OS - ![WINDOWS](https://img.shields.io/badge/WINDOWS-f65314) ![LINUX](https://img.shields.io/badge/LINUX-ffcc33)
 
 ## My skills
 
